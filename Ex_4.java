@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.thebeginning;
+package com.mycompany.ex_4;
 import java.util.*;
 /**
  *
