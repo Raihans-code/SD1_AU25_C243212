@@ -1,14 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package com.mycompany.ex_4;
 import java.util.*;
-/**
- *
- * @author USER
- */
-
 public class Ex_4 {
 
     public static void main(String[] args) {        
