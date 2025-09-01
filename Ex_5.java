@@ -22,9 +22,7 @@ public class Ex_5{
                 System.out.println("Ans = "+ result);
                 break;
             case 2:
-                if(num1>num2) result = num1 - num2;
-                else if(num1<num2) result = num2 - num1;
-                else result = 0;
+                result = num1 -  num2;
                 System.out.println("Ans = " + result);
                 break;
             case 3:
@@ -32,16 +30,14 @@ public class Ex_5{
                 System.out.println("Ans = " + result);
                 break;
             case 4:
-                double ans = 0;
-                if(num1>num2) ans = num1 / num2;
-                else if(num1<num2) ans = num2 / num1;
-                else ans = 1;
+                double ans = num1/(double)num2;
                 System.out.println("Ans = " + ans);
                 break;
             default:
                 System.out.println("Choice out of bound!");
                 break;
         }
+        input.close();
     }
 } 
 

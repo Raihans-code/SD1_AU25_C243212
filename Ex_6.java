@@ -12,5 +12,6 @@ public class Ex_6 {
             System.out.println(i);
             ++i;
         }
+        input.close();
     }
 } 

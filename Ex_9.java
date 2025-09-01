@@ -14,6 +14,7 @@ public class Ex_9 {
             ++i;
         }
         System.out.println(sum);
+        input.close();
     }
 } 
 

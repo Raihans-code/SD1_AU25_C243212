@@ -12,6 +12,7 @@ public class Ex_7{
             System.out.println(i*num);
             ++i;
         }
+        input.close();
     }
 } 
 

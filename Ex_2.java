@@ -7,6 +7,6 @@ public class Ex_2 {
         System.out.println("Enter YOur Name :");
         String n =  name.nextLine();
         System.out.println("Hi!"+n);
-        
+        name.close();
     }
 }
