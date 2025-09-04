@@ -1,5 +1,5 @@
 import java.util.*;
-public class IIUC_Tv {
+public class Problem_IIUC_Tv {
     public static void main(String [] args){
     Scanner input = new Scanner(System.in);
     System.out.print("Input number of friends :");

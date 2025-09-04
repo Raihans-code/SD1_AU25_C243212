@@ -1,5 +1,5 @@
 import java.util.*;
-public class Find_Strict_Average {
+public class Problem_Find_Strict_Average {
     public static void main(String [] args)
     {
         Scanner input = new Scanner(System.in);
